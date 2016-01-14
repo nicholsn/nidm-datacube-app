@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/nicholsn/nidm-datacube-app.svg)](https://travis-ci.org/nicholsn/nidm-datacube-app)
 # NIDM Data Cube App
 
 # angular-seed — the seed for AngularJS apps
